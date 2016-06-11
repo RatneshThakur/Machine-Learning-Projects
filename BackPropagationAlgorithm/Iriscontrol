@@ -1,0 +1,10 @@
+no.of.neurons.input=4
+no.of.neurons.output=3
+no.of.attributes=4
+
+target.col.index=4
+
+is_discrete = false,false,false,false,true
+
+
+col.4=Iris-Setosa,Iris-versicolor,Iris-Virginica
